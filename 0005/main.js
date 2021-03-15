@@ -12,7 +12,7 @@ sum = x1 + x2;
 difference = x1 - x2;
 product = x1 * x2;
 quotient = x1 / x2;
-remainder = x1 * x2;  //10 % 5 = 0 because 10 / 5 = 2 with no remainder left
+remainder = x1 % x2;  //10 % 5 = 0 because 10 / 5 = 2 with no remainder left
 
 document.body.getElementsByTagName("h1")[0].innerHTML = "Addition";  
 document.body.getElementsByTagName("p")[0].innerHTML = "x1 + x2 = " + x1 + " + " + x2 + " = " + sum;
