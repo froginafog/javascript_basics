@@ -13,4 +13,4 @@ document.body.getElementsByTagName("h1")[1].innerHTML = message_3;
 document.body.getElementsByTagName("p")[1].innerHTML = message_4 ;
 
 document.body.style.background = "lightblue";  //set the background color to lightgreen
-document.body.style.color = "purple";  //set the background color to blue
+document.body.style.color = "purple";  //set the text color to purple
