@@ -29,5 +29,5 @@ document.body.getElementsByTagName("p")[3].innerHTML = "x1 / x2: = " + x1 + " / 
 document.body.getElementsByTagName("h1")[4].innerHTML = "Remainder";
 document.body.getElementsByTagName("p")[4].innerHTML = "x1 % x2: = " + x1 + " % " + x2 + " = " + remainder;
 
-document.body.style.background = "lightblue";  //set the background color to lightgreen
-document.body.style.color = "purple";  //set the background color to blue
+document.body.style.background = "lightblue";  
+document.body.style.color = "purple";  
