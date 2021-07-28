@@ -8,4 +8,4 @@ document.body.getElementsByTagName("h1")[1].innerHTML = "Hello Bob";
 document.body.getElementsByTagName("p")[1].innerHTML = "Bye Bob";
 
 document.body.style.background = "lightgreen";  //set the background color to lightgreen
-document.body.style.color = "blue";  //set the background color to blue
+document.body.style.color = "blue";  //set the text color to blue
