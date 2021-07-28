@@ -18,16 +18,16 @@ document.body.getElementsByTagName("h1")[0].innerHTML = "Addition";
 document.body.getElementsByTagName("p")[0].innerHTML = "x1 + x2 = " + x1 + " + " + x2 + " = " + sum;
 
 document.body.getElementsByTagName("h1")[1].innerHTML = "Subtraction";
-document.body.getElementsByTagName("p")[1].innerHTML = "x1 - x2: = " + x1 + " - " + x2 + " = " + difference;
+document.body.getElementsByTagName("p")[1].innerHTML = "x1 - x2 = " + x1 + " - " + x2 + " = " + difference;
 
 document.body.getElementsByTagName("h1")[2].innerHTML = "Multiplication";
-document.body.getElementsByTagName("p")[2].innerHTML = "x1 * x2: = " + x1 + " * " + x2 + " = " + product;
+document.body.getElementsByTagName("p")[2].innerHTML = "x1 * x2 = " + x1 + " * " + x2 + " = " + product;
 
 document.body.getElementsByTagName("h1")[3].innerHTML = "Division";
-document.body.getElementsByTagName("p")[3].innerHTML = "x1 / x2: = " + x1 + " / " + x2 + " = " + quotient;
+document.body.getElementsByTagName("p")[3].innerHTML = "x1 / x2 = " + x1 + " / " + x2 + " = " + quotient;
 
 document.body.getElementsByTagName("h1")[4].innerHTML = "Remainder";
-document.body.getElementsByTagName("p")[4].innerHTML = "x1 % x2: = " + x1 + " % " + x2 + " = " + remainder;
+document.body.getElementsByTagName("p")[4].innerHTML = "x1 % x2 = " + x1 + " % " + x2 + " = " + remainder;
 
 document.body.style.background = "lightblue";  
 document.body.style.color = "purple";  
