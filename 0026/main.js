@@ -16,6 +16,3 @@ function main()
 
 main();
 
-/*
-To JS or not to JS.
-*/
