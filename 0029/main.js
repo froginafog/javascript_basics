@@ -1,6 +1,6 @@
 function main()
 {
-	var date_object = new Date();
+    var date_object = new Date();
     var today = date_object.getDay();
     var output;
     
